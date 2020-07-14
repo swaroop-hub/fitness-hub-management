@@ -1,5 +1,5 @@
 # fitness-hub-management
-The fitness hub Management requires a system that will handle all the necessary and minute details easily and   proper database security accordingly to the user.They requires software, which will store data about members, employees, products, payroll, health,trainer,package details,receipts of members etc &amp; all transactions that occur in Gym and lock-up with graphical user interface(GUI). This system is proposed to be an automate database management &amp; transactions. 
+The fitness hub Management requires a system that will handle all the necessary and minute details easily and   proper database security accordingly to the user.They requires software, which will store data about members, employees, products, payroll, health,trainer,package details,receipts of members etc &amp; all transactions that occur in Gym and lock-up with graphical user interface(GUI). This system is proposed to be an automated system for database management &amp; transactions. 
 
 SOFTWARE REUIREMENTS:
 •	HTML
