@@ -18,3 +18,12 @@ FEATURES
 •	Payment: Already registered users can choose their package and proceed for the payment.
 •	Trainer: The system automatically shows the trainers available at the gym and users can choose their trainer of their interest
 
+Advantages:
+
+•	Gym management system helps to track the workout routine of the customers
+•	It even helps trainers to check on the progress of their customers and schedule their activities.
+•	Holds track of health details of its members.
+•	It helps the management to  have all  personal details of the customer at a single place without use of handwritten records.
+•	Management can also  maintain their account payment details, payment remainders for the customers
+
+
